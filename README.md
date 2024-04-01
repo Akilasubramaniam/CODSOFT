@@ -10,7 +10,7 @@ CSS
 JavaScript
 Repository link:[https://akilasubramaniam.github.io/CODSOFT/portfolio/](url)
 
-2.Landing Page
+2. Landing Page
 The landing page folder includes the code for developing a landing page of a New Arrival of a phone. The landing page is crafted to attract visitors and encourage them to take specific actions, such as signing up for a newsletter, downloading a resource, or purchasing a product.
 Technologies Used:
 HTML
